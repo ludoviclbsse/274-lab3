@@ -1,5 +1,6 @@
 # 274-lab3
 CECS 274 – In Class 3 – Statistical Analysis
+
 A statistics teacher has a class of students and wants to do some statistical calculations on his
 midterm grades. The grades are stored in a file named “Grades.txt”, and range from 0-100.
 Create an ArrayList to hold the midterm grades. Read in from the file and add all grades to
@@ -13,7 +14,9 @@ Create the following functions:
 6. Find Median – Find the median value of the list, return the result.
 7. Find Mode – Find the mode of the values. There may be more than one, so return a
 list of all the modes.
+
 Menu – Repeat the menu until the user quits.
+
 Statistical Analysis
 1. Display Unsorted Grades
 2. Display Sorted Grades
@@ -23,7 +26,9 @@ Statistical Analysis
 6. Display Median Grade
 7. Display Mode
 8. Quit
+
 Hints:
+
 1. Use ArrayLists, not arrays.
 2. Use either selection or bubble sort (given in the lecture notes).
 3. Do not create global variables. Create the list in the main and pass it to the functions.
